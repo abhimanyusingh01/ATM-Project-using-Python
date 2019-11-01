@@ -1,0 +1,3 @@
+User              Acc No    Acc Type    Bal           pass
+Abhimanyu   1101	 Saving	  10580	1234
+Lucifer	    2202	 Current	  58962	1234
